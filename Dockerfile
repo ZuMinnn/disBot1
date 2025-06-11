@@ -21,4 +21,4 @@ COPY . .
 # ---- 6. Chạy bot -----------------------------------------------------------
 # PYTHONUNBUFFERED để log realtime
 ENV PYTHONUNBUFFERED=1
-CMD ["python", "bot.py"]
+CMD ["python", "bot_song_id.py"]
