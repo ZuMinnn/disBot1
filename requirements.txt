@@ -1,0 +1,7 @@
+discord.py==2.4.*
+panns_inference
+torch==2.3.0+cpu  # bản CPU
+torchaudio==2.3.0+cpu
+ffmpeg-python
+python-dotenv
+requests
